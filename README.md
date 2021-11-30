@@ -4,7 +4,7 @@
 
 Before calling "generate_simcells.py" make sure you have the right POTCAR files in the potcars/ directory and they are of the form {}_POTCAR (Au_POTCAR, Pt_POTCAR, etc)
 
-The POSCAR1 file in potcars/ can be deleted. Once ready, call write_poscars.py, "python generate_simcells.py" where a few prompts will appear, here are two examples,
+The POSCAR1 file in potcars/ can be deleted. Once ready, call generate_simcells.py, "python generate_simcells.py" where a few prompts will appear, here are two examples,
 
 ------------- Using Default ----------------
 
